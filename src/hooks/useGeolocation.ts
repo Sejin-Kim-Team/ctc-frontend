@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 
 export interface IGeolocationPositionError {
   readonly code: number
