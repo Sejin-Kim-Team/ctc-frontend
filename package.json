@@ -13,10 +13,12 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.4.3"
+    "react-router-dom": "^6.4.3",
+    "react-use": "^17.4.0"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.31.0",
+    "@types/navermaps": "^3.6.1",
     "@types/node": "^18.11.9",
     "@types/react": "^18.0.24",
     "@types/react-dom": "^18.0.8",
