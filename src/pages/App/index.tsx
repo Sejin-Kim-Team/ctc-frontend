@@ -1,6 +1,6 @@
 import './App.scss'
 
-function App() {
+function Index() {
   return (
     <div className="text-2xl">
       Hello World
@@ -8,4 +8,4 @@ function App() {
   )
 }
 
-export default App
+export default Index
